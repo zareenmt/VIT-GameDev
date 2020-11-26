@@ -9652,10 +9652,5 @@ namespace TMPro
 
             return false;
         }
-
-        public static implicit operator TMP_Text(global::SimpleJSON.JSONNode v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
